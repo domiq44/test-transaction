@@ -35,6 +35,7 @@ target/
 .settings/
 .classpath
 .project
+.factorypath
 
 # NetBeans specific
 nbproject/private/
@@ -44,7 +45,6 @@ dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
-
 
 # OS
 .DS_Store
